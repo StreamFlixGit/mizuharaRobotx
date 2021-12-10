@@ -27,7 +27,7 @@ class Config(object):
         -1001721767919
     )  # Prints information like gbans, sudo promotes, AI enabled disable states that may help in debugging and shit
 
-    # RECOMMENDED
+    # RECOMMENDE
     SQLALCHEMY_DATABASE_URI = "mongodb+srv://henildb:henildb22@cluster0.cfmug.mongodb.net/henildb?retryWrites=true&w=majority"  # needed for any database modules
     LOAD = []
     NO_LOAD = ["rss", "cleaner", "connection", "math"]
